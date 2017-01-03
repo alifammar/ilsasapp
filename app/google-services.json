@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "52613840490",
+    "firebase_url": "https://ilsasapp-d61b6.firebaseio.com",
+    "project_id": "ilsasapp-d61b6",
+    "storage_bucket": "ilsasapp-d61b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52613840490:android:efc549a7de17e6ae",
+        "android_client_info": {
+          "package_name": "com.example.alf.ilsasapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52613840490-sds69ntfqmdjeonlhe4ishfqggcfk12c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7hJaNFixXrCgs-VjEqbt-SngFPwiCTPs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
